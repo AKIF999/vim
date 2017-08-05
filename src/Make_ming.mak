@@ -47,3 +47,16 @@
 # Do not change this.
 UNDER_CYGWIN = no
 include Make_cyg_ming.mak
+
+# User option
+# ENABLE_TERMINAL=yes
+CSCOPE=yes
+NETBEANS=yes
+ARCH=x86-64
+STATIC_STDCPLUS=yes
+PERL=C:\strawberry\perl
+DYNAMIC_PERL=yes
+PERL_VER=526
+PYTHON=C:\python27
+DYNAMIC_PYTHON=yes
+PYTHON_VER=27

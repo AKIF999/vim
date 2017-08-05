@@ -74,7 +74,7 @@ else
 CHANNEL=$(GUI)
 endif
 # Set to yes to enable terminal support.
-TERMINAL=no
+TERMINAL=yes
 
 
 # Link against the shared version of libstdc++ by default.  Set
