@@ -1,0 +1,6 @@
+set nocompatible
+set enc=utf-8
+set fencs=utf-8,cp932
+
+set guifont=Migu_1M:h9:cSHIFTJIS:qDRAFT
+
